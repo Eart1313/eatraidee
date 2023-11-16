@@ -1,17 +1,23 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
-import Homepage from "./pages/homepage.jsx";
-import DonatePage from "./pages/DonatePage.jsx";
 import "./App.css";
+import Homepage from "./pages/homepage.jsx";
+import DonatePage from "./pages/donatePage.jsx";
 import "./index.css";
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Link,
+} from "react-router-dom";
+const router = createBrowserRouter([
+  { path: "/", element: <Homepage /> },
+  { path: "/donate", element: <DonatePage /> },
+]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Router>
-      <Route path="/" element={<Homepage />} />
-      <Route path="/donate" element={<DonatePage />} />
-    </Router>
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
