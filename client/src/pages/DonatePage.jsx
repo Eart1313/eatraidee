@@ -1,5 +1,5 @@
-import Navbar from "../components/Navbar";
-import Footer from "../components/footer";
+import Navbar from "../components/Navbar.jsx";
+import Footer from "../components/Footer.jsx";
 import thank from "../assets/image/thank.gif";
 import qr from "../assets/image/qr.jpg";
 
