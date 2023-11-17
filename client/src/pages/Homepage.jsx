@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
 import Footer from "../components/footer";
+import { useState } from "react";
 import Navbar from "../components/Navbar";
 import FoodCard from "../components/FoodCard";
 import panda from "../assets/image/panda.gif";

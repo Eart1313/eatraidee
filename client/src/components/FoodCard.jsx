@@ -1,4 +1,4 @@
-import React from "react";
+import PropTypes from "prop-types";
 
 const FoodCard = (props) => {
   const checkMeal = (input) => {
@@ -9,6 +9,16 @@ const FoodCard = (props) => {
     } else if (input === "dinner") {
       return "มื้อเย็น 🥗";
     }
+  };
+
+  FoodCard.propTypes = {
+    img: PropTypes.string.isRequired,
+    meal: PropTypes.string.isRequired,
+    menu: PropTypes.string.isRequired,
+    description: PropTypes.string.isRequired,
+    cal: PropTypes.number.isRequired,
+    link: PropTypes.string.isRequired,
+    handle: PropTypes.func.isRequired,
   };
 
   return (
@@ -34,7 +44,7 @@ const FoodCard = (props) => {
         </div>
         <div className="text-customBlue">
           <span className="text-customPurple ">ร้านดังแนะนำ : </span>
-          <a href={props.link} target="_blank">
+          <a href={props.link} target="_blank" rel="noreferrer">
             ลิ้งค์ร้านจ้า
           </a>
         </div>
