@@ -1,6 +1,6 @@
-import Footer from "../components/footer";
+import Footer from "../components/Footer.jsx";
 import { useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/Navbar.jsx";
 import FoodCard from "../components/FoodCard";
 import panda from "../assets/image/panda.gif";
 import config from "../assets/image/config.png";
