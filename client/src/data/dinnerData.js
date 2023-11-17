@@ -148,8 +148,8 @@ const dinnerData = [
   {
     id: 18,
     img: "https://img.wongnai.com/p/1920x0/2015/08/28/1cb46d1514394626bdfad068e71923c9.jpg",
-    menu: "กระเพราะปลา",
-    description: "รู้หรือไม่? กระเพราะปลาไม่ใช่กระเพราะ แต่มันคือถุงลมของปลา",
+    menu: "กระเพาะปลา",
+    description: "รู้หรือไม่? กระเพาะปลาไม่ใช่กระเพาะ แต่มันคือถุงลมของปลา",
     cal: 319,
     link: "https://www.wongnai.com/restaurants/642823pu-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B9%8A%E0%B8%A7%E0%B8%B0-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/menu/items/19535781",
   },
