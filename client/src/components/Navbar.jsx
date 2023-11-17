@@ -17,7 +17,9 @@ const Navbar = () => {
           ดีนะ?
         </div>
         <div className="flex items-center gap-[5rem] text-[1.2rem] text-customBlue ">
-          <div className="cursor-pointer hover:text-[#005ff7] hidden lg:inline-block  ">
+          <div
+            onClick={() => navigate("https://www.facebook.com/eart.thepray")}
+            className="cursor-pointer hover:text-[#005ff7] hidden lg:inline-block  ">
             ติดต่อ / แนะนำเมนูใหม่
           </div>
           <button
@@ -38,7 +40,9 @@ const Navbar = () => {
             openNav ? "open" : ""
           } lg:hidden drop-shadow-lg	`}>
           <div className="nav-menu-item">
-            <div className="h-[80px] flex justify-center items-center bg-[#2bc8b6] text-[white] ">
+            <div
+              onClick={() => navigate("https://www.facebook.com/eart.thepray")}
+              className="h-[80px] flex justify-center items-center bg-[#2bc8b6] text-[white] ">
               <div className="cursor-pointer">ติดต่อ / แนะนำเมนูใหม่</div>
             </div>
           </div>
