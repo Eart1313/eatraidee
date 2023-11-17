@@ -45,7 +45,7 @@ const FoodCard = (props) => {
         <div className="text-customBlue">
           <span className="text-customPurple ">ร้านดังแนะนำ : </span>
           <a href={props.link} target="_blank" rel="noreferrer">
-            ลิ้งค์ร้านจ้า
+            จิ้มได้ที่นี่เลยย!
           </a>
         </div>
       </div>

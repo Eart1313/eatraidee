@@ -43,7 +43,9 @@ const Navbar = () => {
             </div>
           </div>
           <div className="nav-menu-item">
-            <div className="h-[80px] flex justify-center items-center bg-[#07b6a1] text-[white]">
+            <div
+              onClick={() => navigate("/donate")}
+              className="h-[80px] flex justify-center items-center bg-[#07b6a1] text-[white] cursor-pointer">
               ให้ค่าขนม
               <div className="cursor-pointer"> ให้ค่าขนม</div>
             </div>
