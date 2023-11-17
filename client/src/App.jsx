@@ -1,10 +1,18 @@
 import "./App.css";
-import Homepage from "./pages/homepage";
+import "./index.css";
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Homepage from "./pages/homepage.jsx";
+import DonatePage from "./pages/donatePage.jsx";
+
 function App() {
   return (
-    <>
-      <Homepage />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Homepage />}></Route>
+        <Route path="/donate" element={<DonatePage />}></Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
