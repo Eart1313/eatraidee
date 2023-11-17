@@ -38,7 +38,7 @@ const breakfastData = [
     img: "https://img.wongnai.com/p/1920x0/2023/02/02/d692e566e02d4227a63cc7fc93ded33f.jpg",
     menu: "ข้าวผัดอเมริกัน",
     description:
-      "ข้าวผัดชนิดหนึ่งที่ผัดด้วยซอสมะเขือเทศ นิยมผัดกับเนยมากกว่าน้ำมัน โดยนิยมใส่ลูกเกดด้วย อาจมีถั่วลันเตา หัวหอม หรือแฮมหั่นชิ้นเล็ก ๆ ผัดรวมกันด้วยก็ได้ ",
+      "ข้าวผัดชนิดหนึ่งที่ผัดด้วยซอสมะเขือเทศ นิยมผัดกับเนยมากกว่าน้ำมัน โดยนิยมใส่ลูกเกดด้วย ",
     cal: 790,
     link: "https://www.wongnai.com/restaurants/2100018GQ-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%95%E0%B8%9A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B4%E0%B8%87-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B9%89%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F-%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%8B%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%81?_st=cD03O2I9MjEwMDAxODthZD1mYWxzZTt0PTE3MDAxMzY0NTI1MjM7cmk9MVg3YXNEUXZ0TlozejBCdEYzb2xJV2NnekJJT04xO2k9MVg3MExYQ1dPZmtRSGpDcUhmaWMySUYySFlkcldVO3dyZWY9c3I7",
   },
@@ -63,7 +63,7 @@ const breakfastData = [
     img: "https://lh5.googleusercontent.com/p/AF1QipPXr77xZRT9fE7eFf3OvreXx7vMpHRsSAg8j-WP=w408-h544-k-no",
     menu: "สปาเก็ตตี้ซอสมะเขือเทศ",
     description:
-      "สปาเก็ตตี้ซอสมะเขือเทศเป็นซอสหรือน้ำซุปที่ใช้ในการเตรียมเมนูสปาเก็ตตี้ มะเขือเทศเป็นส่วนหลักของซอสนี้ มะเขือเทศจะถูกปรุงรสและต้มลงไปพร้อมกับสมุนไพรและเครื่องเทศเพื่อให้ได้รสชาติที่หอม หวาน และเปรี้ยวอร่อย",
+      "สปาเก็ตตี้ซอสมะเขือเทศเป็นซอสหรือน้ำซุปที่ใช้ในการเตรียมเมนูสปาเก็ตตี้ มะเขือเทศเป็นส่วนหลักของซอสนี้ ",
     cal: 277,
     link: "https://maps.app.goo.gl/uoXoatqUjtuLE6GW9",
   },
@@ -81,7 +81,7 @@ const breakfastData = [
     img: "https://png.pngtree.com/thumb_back/fw800/background/20220608/pngtree-pork-blood-soup-soup-thailand-gourmet-photo-image_31181346.jpg",
     menu: "ต้มเลือดหมู",
     description:
-      "ต้มเลือดหมูเป็นอาหารที่ทำจากเลือดหมูที่ต้มสุกในน้ำพริกและเครื่องเทศต่างๆ มีรสชาติเค็ม และเผ็ด นิยมกินเป็นอาหารทานคู่กับข้าวสวย ไม่อ้วน",
+      "ต้มเลือดหมูเป็นอาหารที่ทำจากเลือดหมูที่ต้มสุกในน้ำพริกและเครื่องเทศต่างๆ นิยมกินเป็นอาหารทานคู่กับข้าวสวย ",
     cal: 216,
     link: "https://www.google.com/maps/place/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%AD%E0%B8%8A%E0%B8%B2/@14.0664066,101.8031277,16.25z/data=!4m16!1m9!3m8!1s0x311c6397958deb03:0xdb13d04ac6c2f13e!2z4LiK4Lix4Lii4Lij4Liq4LmC4Lit4LiK4Liy!8m2!3d14.0652596!4d101.8039425!9m1!1b1!16s%2Fg%2F11pdbb6836!3m5!1s0x311c6397958deb03:0xdb13d04ac6c2f13e!8m2!3d14.0652596!4d101.8039425!16s%2Fg%2F11pdbb6836?entry=ttu",
   },
@@ -90,7 +90,7 @@ const breakfastData = [
     img: "https://img.wongnai.com/p/1920x0/2023/04/01/cca70bb7489e43cdba4ff88d682bf16b.jpg",
     menu: "โจ๊กไข่ลวก",
     description:
-      "โจ๊กไข่ลวกเป็นอาหารประเภทโจ๊กที่ทำจากข้าวต้มในน้ำพริกไข่และเครื่องปรุงรสต่างๆ มักจะเติมไข่ลวกบนข้าวต้มและเสิร์ฟพร้อมส่วนผสมอื่นๆ เช่น หมูสับหรือปลาหมึก",
+      "โจ๊กไข่ลวกเป็นอาหารประเภทโจ๊กที่ทำจากข้าวต้มในน้ำพริกไข่และเครื่องปรุงรสต่างๆ มักจะเติมไข่ลวก",
     cal: 250,
     link: "https://www.wongnai.com/restaurants/2192459xy-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%88%E0%B9%8A%E0%B8%81-%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0?_st=cD0xO2I9MjE5MjQ1OTthZD1mYWxzZTt0PTE3MDAxMzkzNjcyMDQ7cmk9MVg3YXNEV3FFSWxURHZMUHVqV3d5endubVBxMzMxO2k9MVg3MExYSVFsNWFhaVVuTVFrdXBjOTl6SkQ3a3ViO3dyZWY9c3I7",
   },
@@ -220,9 +220,7 @@ const breakfastData = [
     id: 26,
     img: "https://img.wongnai.com/p/1920x0/2021/01/08/76aec80f676243c5b7ff11cfbfa9570a.jpg",
     menu: "แพนง",
-    description:
-      "พะแนง เป็นอาหารไทยประเภทแกงข้นที่เน้นรสชาติเค็มและหวาน โดยมีส่วนผสมหลักของเครื่องแกง คือ พริก ข่า ตะไคร้ รากผักชี เมล็ดผักชี เมล็ดยี่หร่า กระเทียม อบเชย และเกลือ ใส่เนื้อสัตว์ได้ทั้งเนื้อวัว เนื้อหมู เนื้อไก่ และอื่น ๆ",
-    cal: 273,
+    description: "พะแนง เป็นอาหารไทยประเภทแกงข้นที่เน้นรสชาติเค็มและหวาน ",
     link: "https://www.wongnai.com/restaurants/642823pu-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B9%8A%E0%B8%A7%E0%B8%B0-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/menu/items/19535781",
   },
   {
@@ -230,7 +228,7 @@ const breakfastData = [
     img: "https://img.wongnai.com/p/1920x0/2021/01/08/c0a672e09cf94f51b5064ed2ff5f1a09.jpg",
     menu: "ฉู่ฉี่ปลาทู",
     description:
-      "ฉู่ฉี่ เป็นอาหารไทยประเภทแกงชนิดหนึ่ง ใช้พริกแบบแกงคั่ว แต่ลักษณะน้ำแกงราดขลุกขลิกสีแดงส้มแตกมัน ข้นกว่าแกงเผ็ด รสกลมกล่อม หวานนำนิด ๆ ไม่เผ็ด หอมกะทิ นิยมแกงกับกุ้ง ปลากะพง ปลาทู และปลาเนื้ออ่อน[1] ปรุงรสด้วยน้ำปลาและน้ำตาลปี๊บ โรยใบมะกรูดหั่นฝอยและพริกชี้ฟ้าแดงหั่นแฉลบบาง ๆ",
+      "ฉู่ฉี่ เป็นอาหารไทยประเภทแกงชนิดหนึ่ง ใช้พริกแบบแกงคั่ว แต่ลักษณะน้ำแกงราดขลุกขลิกสีแดงส้มแตกมัน ข้นกว่าแกงเผ็ด รสกลมกล่อม",
     cal: 273,
     link: "https://www.wongnai.com/restaurants/642823pu-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B9%8A%E0%B8%A7%E0%B8%B0-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/menu/items/19535781",
   },
